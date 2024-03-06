@@ -6,7 +6,7 @@ Upon heading to university, we observed our dog becoming uneasy, often resting o
 ## Future Plans
 
 Considerations for future enhancements:
-1.) Add it to my [Website](https://www.zephsuderman.ca)
+1. Add it to my [Website](https://www.zephsuderman.ca)
 
 ## Code 
 As a non-computer science student, understanding the intricacies of the code’s functionality is challenging. Extensive YouTube tutorials were consulted for implementation. There might be simpler approaches, and I welcome suggestions for improvement.
